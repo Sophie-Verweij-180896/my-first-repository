@@ -48,12 +48,12 @@ body {
 	font-size: 15px;
 }
 
-.p-2 {
+.paragraph2 {
 	color: #B1AEAE;
 	
 }
 
-.p-3 {
+.paragraph3 {
 	color: #63DFF4;
 	font-family: bebas-neue;
 	font-size: 90px;
@@ -65,21 +65,22 @@ body {
 	font-size: 30px;
 }
 
-.p-5 {
+.paragraph5 {
 	color: white;
 	font-family: bebas-neue;
 	font-size: 20px;
 	text-align: center
 		
 }
-.p-4 {
+.paragraph4 {
 	color: #63DFF4;
 	font-family: bebas-neue;
 	font-size: 30px;
 	text-align: center
 }
 .img-fluid {
-	align-content: center
+	align-content: center;
+	text-align: center;
 }
 .images {
 	margin-left: 10px;

@@ -1,89 +1,93 @@
 @charset "UTF-8";
-body {
-	background-color: black
+
+.body {
+	background-color: black;
 }
-.h2 {
-    color: #FFFFFF;
-    font-family: bebas-neue;
-    font-style: normal;
-    font-weight: 200;
-    font-size: 40px;
-	align-content: center;
-	text-align: center
+
+.navbar {
+    color: #64c3d0;
+    font-family: bebas neue;
+    font-size: x-large;
 }
-		
-.my-class {
-    color: #63DFF4;
-    font-family: bebas-neue;
-    font-style: normal;
-    font-weight: 400;
+
+.paragraph {
+    color: white;
     text-align: center;
-    font-size: 100px;	
+    font-family: Avenir "Avenir Next Condensed Regular";
+    font-size: large;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: lighter;
+    letter-spacing: 1px;
 }
 
-
-.h3 {
-	color:white;
-	font-family: bebas-neue;
-	font-style: normal;
-	font-weight: 400;
-	text-align: center;
-	font-size: 30px;
+.values {
+    color: #64C3D0;
+    Font-family: bebas neue;
+    font-size: xx-large;
+    text-align: center;
 }
 
-.h4 {
-	color: white;
-	font-family: bebas-neue;
-	font-style: normal;
-	font-weight: 400;
-	text-align: left;
-	font-size: 30px;
-}
-.p {
-	color:#B1AEAE;
+.h2 {
+	color: #64C3D0;
+	font-family: "bebas-neue";
+	text-align:center;	
 }
 
-.ul {
-	color: #B1AEAE;
-	font-size: 15px;
-}
 
 .paragraph2 {
-	color: #B1AEAE;
-	
+    color: #64C3D0;
+    font-family: "bebas-neue";
+    text-align: center;
+    font-size: x-large;
 }
 
 .paragraph3 {
-	color: #63DFF4;
-	font-family: bebas-neue;
-	font-size: 90px;
-	text-align: center
+    color: white;
+    margin-left: 29px;
+    margin-right: 29px;
+	
 }
-.nav-link {
-	color: white;
-	font-family: bebas-neue;
-	font-size: 30px;
+
+.paragraph4 {
+    color: #64C3D0;
+    font-family: "bebas-neue";
+	margin-left: 29px;
+	margin-right:29px;
+}
+
+.h3 {
+    text-align: center;
+    color: #64C3D0;
+    font-family: "bebas-neue";
+    font-size: xx-large;
+}
+
+.list {
+    color: white;
+    text-align: center;
+    font-size: 22pt;
+    font-family: "Avenir Next Condensed";
+    font-weight: lighter;
+    text-decoration: none;
+    font-variant: normal;
+    font-style: normal;
 }
 
 .paragraph5 {
-	color: white;
-	font-family: bebas-neue;
-	font-size: 20px;
-	text-align: center
-		
+    color: white;
+    font-family: 'bebas-neue';
+    text-align: center;
+    font-size: 24pt;
 }
-.paragraph4 {
-	color: #63DFF4;
-	font-family: bebas-neue;
-	font-size: 30px;
-	text-align: center
+
+.logo1 {
+	float: left;
+	margin-left: 300px;
 }
-.img-fluid {
-	align-content: center;
-	text-align: center;
+
+.logo2 {
+	float: right;
+	margin-right: 300px;
 }
-.images {
-	margin-left: 10px;
-	margin-bottom: 20px;
-	align-content: center
-}
+

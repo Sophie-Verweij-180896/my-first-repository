@@ -90,4 +90,8 @@
 	float: right;
 	margin-right: 300px;
 }
-
+label {
+	color: #ffffff;
+	font-family: "bebas-neue";
+	font-size: large;
+}

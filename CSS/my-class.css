@@ -130,5 +130,15 @@ label {
 	color:white;
 	text-align:center;
 	font-family: 'Barlow', sans-serif;
-	margin-top:0px;
+	margin-bottom:25px;
+}
+
+.textdes{
+		margin-left:20%;
+	margin-right:20%;
+	margin-top:1%;
+	color:white;
+	font-family: 'Barlow', sans-serif;
+	margin-bottom:0px;
+	text-align:center;
 }

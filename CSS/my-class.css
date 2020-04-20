@@ -209,3 +209,7 @@ label {
     font-size: 4.5rem;
     margin-top: -25px;
 }
+
+.figure {
+	align-content: center;
+}

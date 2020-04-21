@@ -171,77 +171,15 @@ label {
 }
 
 /*Sam's Service's Page*/
-
-.margins {
-    margin-top: 100px;
-}
-.color {
-    background-color: #FFFFFF;
-}
-.title2 {
-    color: #FFFFFF;
-}
-.paragraph6 {
-    color: #101010;
-    text-align: center;
-    margin-left: 20px;
-    margin-right: 20px;
-}
-.line {
-    border-color: #65C3D0;
-}
-.margins3 {
-    margin-top: 120px;
-    margin-left: 10px;
-    margin-right: 10px;
-}
-.text{|
-}
-.margins2 {
-}
-.paragraph1 {
-    font-family: 'bebas-neue';
-    font-weight: normal;
-    font-size: 2.2rem;
-    margin-top: 25px;
-    color: #FFFFFF;
-    align-content: center;
-    text-align: center;
-}
 .margins4 {
     margin-bottom: 25px;	
 }
-.title1 {
-    color: #FFFFFF;
-    font-family: 'bebas-neue';
-    font-size: 4.3rem;
-    text-align: center;
-    margin-left: 400px;
-    margin-right: 375px;
-    margin-bottom: 108px;
+
+.price {
 	text-align: center;
-}
-.margins5 {
-    left: 20px;
-}
-.margins6 {
-    right: 20px;
-}
-.h1 {
-    text-align: center;
-    color: #FFFFFF;
+    color: #00000;
     font-family: "bebas-neue";
-    font-size: 4.5rem;
-    margin-top: -25px;
-}
-HEAD
-
-.figure {
-	align-content: center;
-}
-
-.footer-text {
-    color: #FFFFFF;
+    font-size: 2rem;
 }
 .title3 {
 	text-align: center;
@@ -249,16 +187,22 @@ HEAD
     font-family: "bebas-neue";
     font-size: 2rem;
 }
-.paragraph7{
-	text-align: center;
-	color:#64C3D0;
-	font-family: "bebas-neue";
-	font-size: 29pt
+.paragraph6 {
+    color: #101010;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
 }
-.price {
+
+.h4 {
 	text-align: center;
-    color: #00000;
+    color: #ffffff;
     font-family: "bebas-neue";
-    font-size: 2rem;
+    font-size: xx-large;
 }
-943aae14e0c746097629ef4120f9ed2e08250e76
+.line {
+    border-color: #65C3D0;
+}
+.row1 {
+    margin-top: 50px;
+}

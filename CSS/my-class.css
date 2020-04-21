@@ -23,6 +23,18 @@
     font-weight: lighter;
     letter-spacing: 1px;
 }
+.mission {
+    color: white;
+    text-align: center;
+    font-family: "Avenir Next Condensed";
+    font-style: italic;
+    font-variant: normal;
+    font-weight: lighter;
+    font-size: 23pt;
+    letter-spacing: 2pt;
+	margin-left: 40pt;
+	margin-right:40pt;
+}
 
 .values {
     color: #64C3D0;

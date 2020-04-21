@@ -195,6 +195,8 @@ label {
     margin-left: 10px;
     margin-right: 10px;
 }
+.text{|
+}
 .margins2 {
 }
 .paragraph1 {
@@ -246,6 +248,12 @@ HEAD
     color: #64C3D0;
     font-family: "bebas-neue";
     font-size: 2rem;
+}
+.paragraph7{
+	text-align: center;
+	color:#64C3D0;
+	font-family: "bebas-neue";
+	font-size: 29pt
 }
 .price {
 	text-align: center;

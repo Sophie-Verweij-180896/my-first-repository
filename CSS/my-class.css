@@ -65,6 +65,12 @@
     font-family: "bebas-neue";
     font-size: xx-large;
 }
+.h4 {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "bebas-neue";
+    font-size: xx-large;
+}
 
 .list {
     color: white;
@@ -172,7 +178,6 @@ label {
     margin-right: 10px;
 }
 .margins2 {
-    margin-top: -75px;
 }
 .paragraph1 {
     font-family: 'bebas-neue';
@@ -209,7 +214,25 @@ label {
     font-size: 4.5rem;
     margin-top: -25px;
 }
+HEAD
 
 .figure {
 	align-content: center;
 }
+
+.footer-text {
+    color: #FFFFFF;
+}
+.title3 {
+	text-align: center;
+    color: #64C3D0;
+    font-family: "bebas-neue";
+    font-size: 2rem;
+}
+.price {
+	text-align: center;
+    color: #00000;
+    font-family: "bebas-neue";
+    font-size: 2rem;
+}
+943aae14e0c746097629ef4120f9ed2e08250e76

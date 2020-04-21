@@ -116,6 +116,12 @@ label {
 	font-family: "bebas-neue";
 	font-size: large;
 }
+.subtitle {
+    color: #64C3D0;
+    font-family: "bebas-neue";
+    text-align: center;
+    font-size: medium;
+}
 
 /*Ruben about page*/
 

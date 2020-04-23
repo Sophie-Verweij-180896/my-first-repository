@@ -9,7 +9,7 @@
 
 .navbar {
     color: #64c3d0;
-    font-family: bebas neue;
+    font-family: "Bebas Neue";
     font-size: x-large;
 }
 
@@ -38,7 +38,7 @@
 
 .values {
     color: #64C3D0;
-    Font-family: bebas neue;
+    font-family: "Bebas Neue";
     font-size: xx-large;
     text-align: center;
 }
@@ -66,7 +66,7 @@
 
 .paragraph4 {
     color: #64C3D0;
-    font-family: "bebas-neue";
+    font-family: "Bebas Neue";
 	margin-left: 29px;
 	margin-right:29px;
 }
@@ -113,12 +113,12 @@
 }
 label {
 	color: #ffffff;
-	font-family: "bebas-neue";
+	font-family: "Bebas Neue";
 	font-size: large;
 }
 .subtitle {
     color: #64C3D0;
-    font-family: "bebas-neue";
+    font-family: "Bebas Neue";
     text-align: center;
     font-size: medium;
 }
@@ -142,7 +142,7 @@ label {
 .h4{
 	text-align: center;
     color: White;
-    font-family: "bebas-neue";
+    font-family: "Bebas Neue";
     font-size: xx-large;
 }
 
@@ -152,14 +152,14 @@ label {
 	text-align:justify;
 	margin-top:1%;
 	color:white;
-	font-family: 'Barlow', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	margin-bottom:0px;
 }
 
 .phototext{ 
 	color:white;
 	text-align:center;
-	font-family: 'Barlow', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	margin-bottom:25px;
 }
 
@@ -168,7 +168,7 @@ label {
 	margin-right:20%;
 	margin-top:1%;
 	color:white;
-	font-family: 'Barlow', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	margin-bottom:0px;
 	text-align:center;
 }
@@ -181,13 +181,13 @@ label {
 .price {
 	text-align: center;
     color: #00000;
-    font-family: "Bebas-Neue";
+    font-family: "Bebas Neue";
     font-size: 2rem;
 }
 .title3 {
 	text-align: center;
     color: #64C3D0;
-    font-family: "Bebas-Neue";
+    font-family: "Bebas Neue";
     font-size: 2rem;
 }
 .paragraph6 {
@@ -200,7 +200,7 @@ label {
 .h4 {
 	text-align: center;
     color: #ffffff;
-    font-family: bebas-neue;
+    font-family: "Bebas Neue";
     font-size: xx-large;
 }
 .line {
@@ -212,7 +212,7 @@ label {
 
 .paragraph7 {
 	text-align: center;
-	font-family: "bebas-neue";
+	font-family: "Bebas Neue";
 	color: #64C3D0;
 	font-size: 28pt;
 }

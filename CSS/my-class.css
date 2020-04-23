@@ -1,7 +1,5 @@
 @charset "UTF-8";
 
-font-family: 'Bebas Neue', cursive;
-
 .body {
 	background-color: black;
 	margin-left: 50px;
@@ -47,14 +45,14 @@ font-family: 'Bebas Neue', cursive;
 
 .h2 {
 	color: #64C3D0;
-	font-family: "bebas-neue";
+	font-family: 'Bebas Neue', cursive;
 	text-align:center;	
 }
 
 
 .paragraph2 {
     color: #64C3D0;
-    font-family: "bebas-neue";
+    font-family: bebas-neue;
     text-align: center;
     font-size: x-large;
 }
@@ -76,13 +74,13 @@ font-family: 'Bebas Neue', cursive;
 .h3 {
     text-align: center;
     color: #64C3D0;
-    font-family: "bebas-neue";
+    font-family: 'Bebas Neue', cursive;
     font-size: xx-large;
 }
 .h4 {
     text-align: center;
     color: #FFFFFF;
-    font-family: "bebas-neue";
+    font-family: 'Bebas Neue', cursive;
     font-size: xx-large;
 }
 
@@ -99,7 +97,7 @@ font-family: 'Bebas Neue', cursive;
 
 .paragraph5 {
     color: white;
-    font-family: 'bebas-neue';
+    font-family: 'Bebas Neue', cursive;
     text-align: center;
     font-size: 24pt;
 }
@@ -202,7 +200,7 @@ label {
 .h4 {
 	text-align: center;
     color: #ffffff;
-    font-family: "bebas-neue";
+    font-family: bebas-neue;
     font-size: xx-large;
 }
 .line {

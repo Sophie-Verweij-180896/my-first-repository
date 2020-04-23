@@ -122,6 +122,9 @@ label {
     text-align: center;
     font-size: medium;
 }
+.maps {
+	width: 100%
+}
 
 /*Ruben about page*/
 
@@ -205,4 +208,11 @@ label {
 }
 .row1 {
     margin-top: 50px;
+}
+
+.paragraph7 {
+	text-align: center;
+	font-family: "bebas-neue";
+	color: #64C3D0;
+	font-size: 28pt;
 }

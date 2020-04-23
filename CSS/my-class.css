@@ -45,14 +45,14 @@
 
 .h2 {
 	color: #64C3D0;
-	font-family: 'Bebas Neue', cursive;
+	font-family: "Bebas Neue";
 	text-align:center;	
 }
 
 
 .paragraph2 {
     color: #64C3D0;
-    font-family: bebas-neue;
+    font-family: "Bebas Neue";
     text-align: center;
     font-size: x-large;
 }
@@ -74,13 +74,13 @@
 .h3 {
     text-align: center;
     color: #64C3D0;
-    font-family: 'Bebas Neue', cursive;
+    font-family: "Bebas Neue";
     font-size: xx-large;
 }
 .h4 {
     text-align: center;
     color: #FFFFFF;
-    font-family: 'Bebas Neue', cursive;
+    font-family: "Bebas Neue";
     font-size: xx-large;
 }
 
@@ -97,7 +97,7 @@
 
 .paragraph5 {
     color: white;
-    font-family: 'Bebas Neue', cursive;
+    font-family: "Bebas Neue";
     text-align: center;
     font-size: 24pt;
 }

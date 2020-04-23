@@ -9,7 +9,7 @@
 
 .navbar {
     color: #64c3d0;
-    font-family: bebas neue;
+    font-family: bebas-neue;
     font-size: x-large;
 }
 
@@ -38,21 +38,21 @@
 
 .values {
     color: #64C3D0;
-    Font-family: bebas neue;
+    Font-family: bebas-neue;
     font-size: xx-large;
     text-align: center;
 }
 
 .h2 {
 	color: #64C3D0;
-	font-family: "Bebas Neue";
+	font-family: bebas-neue;
 	text-align:center;	
 }
 
 
 .paragraph2 {
     color: #64C3D0;
-    font-family: "Bebas Neue";
+    font-family: bebas-neue;
     text-align: center;
     font-size: x-large;
 }
@@ -66,7 +66,7 @@
 
 .paragraph4 {
     color: #64C3D0;
-    font-family: "bebas-neue";
+    font-family: bebas-neue;
 	margin-left: 29px;
 	margin-right:29px;
 }
@@ -74,13 +74,13 @@
 .h3 {
     text-align: center;
     color: #64C3D0;
-    font-family: "Bebas Neue";
+    font-family: bebas-neue;
     font-size: xx-large;
 }
 .h4 {
     text-align: center;
     color: #FFFFFF;
-    font-family: "Bebas Neue";
+    font-family: bebas-neue;
     font-size: xx-large;
 }
 
@@ -97,7 +97,7 @@
 
 .paragraph5 {
     color: white;
-    font-family: "Bebas Neue";
+    font-family: bebas-neue;
     text-align: center;
     font-size: 24pt;
 }
@@ -181,13 +181,13 @@ label {
 .price {
 	text-align: center;
     color: #00000;
-    font-family: Bebas-Neue;
+    font-family: bebas-neue;
     font-size: 2rem;
 }
 .title3 {
 	text-align: center;
     color: #64C3D0;
-    font-family: Bebas-Neue;
+    font-family: bebas-neue;
     font-size: 2rem;
 }
 .paragraph6 {
@@ -200,7 +200,7 @@ label {
 .h4 {
 	text-align: center;
     color: #ffffff;
-    Font-family: bebas neue;
+    Font-family: bebas-neue;
     font-size: xx-large;
 }
 .line {

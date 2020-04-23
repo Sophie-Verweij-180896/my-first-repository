@@ -113,12 +113,12 @@
 }
 label {
 	color: #ffffff;
-	font-family: "bebas-neue";
+	font-family: bebas-neue;
 	font-size: large;
 }
 .subtitle {
     color: #64C3D0;
-    font-family: "bebas-neue";
+    font-family: bebas-neue;
     text-align: center;
     font-size: medium;
 }
@@ -142,7 +142,7 @@ label {
 .h4{
 	text-align: center;
     color: White;
-    font-family: 'Bebas Neue', cursive;
+    font-family: bebas-neue;
     font-size: xx-large;
 }
 
@@ -181,13 +181,13 @@ label {
 .price {
 	text-align: center;
     color: #00000;
-    font-family: "Bebas-Neue";
+    font-family: Bebas-Neue;
     font-size: 2rem;
 }
 .title3 {
 	text-align: center;
     color: #64C3D0;
-    font-family: "Bebas-Neue";
+    font-family: Bebas-Neue;
     font-size: 2rem;
 }
 .paragraph6 {
@@ -212,7 +212,7 @@ label {
 
 .paragraph7 {
 	text-align: center;
-	font-family: "bebas-neue";
+	font-family: bebas-neue;
 	color: #64C3D0;
 	font-size: 28pt;
 }
